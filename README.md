@@ -35,6 +35,12 @@ This repository contains basic Java programs and explanations covering:
 - Accessing Members with Objects  
 
 ---
+JDK JRE JVM 
+
+- Working of Java Code
+- | Layer | Purpose | Key Points |
+
+---
 
 🔧 Methods
 
