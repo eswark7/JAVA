@@ -4,7 +4,8 @@ This repository contains basic Java programs and explanations covering:
 
 - ✅ Syntax and Basics  
 - 🔁 Control Statements  
-- 🧍‍♂️ Classes and Objects  
+- 🧍‍♂️ Classes and Objects
+- 🛠️  JDK / JRE / JVM (How Java Code Works)   
 - 🔧 Methods  
 
 ---
@@ -35,7 +36,7 @@ This repository contains basic Java programs and explanations covering:
 - Accessing Members with Objects  
 
 ---
-JDK JRE JVM 
+🛠️  JDK / JRE / JVM
 
 - Working of Java Code
 - | Layer | Purpose | Key Points |
